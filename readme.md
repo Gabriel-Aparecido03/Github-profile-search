@@ -1,6 +1,6 @@
 # Github Profile Search
 
-</img src="./src/assets/screenshot.png" alt="imagem da capa do projeto" aling="center">
+<img src="./src/assets/screenshot.png" alt="imagem da capa do projeto" aling="center/">
 
 ### What's wanna learning ?
 

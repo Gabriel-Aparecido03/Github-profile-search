@@ -1,0 +1,59 @@
+#UserContainer {
+    display: flex;
+    width: 50%;
+    margin-inline: auto;
+
+    background-color: #252525;
+    border-radius: .4rem;
+    
+    padding: 2rem;
+    color: #fff;
+
+    margin-top: 5%;
+}
+
+a {
+    color: rgb(68, 68, 68);
+    text-decoration: none;
+}
+
+.photo-content {
+    text-align: center;
+}
+
+img {
+    max-width: 90%;
+    border-radius: 50%;
+}
+
+.infos-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 2rem;
+    text-align: center;
+}
+
+.list-infos {
+    background-color: #3b3b3b;
+    padding: 2rem;
+    border-radius: .5rem;
+
+    text-align: initial;
+}
+
+li {
+    margin-top: .6rem;
+    list-style: none;
+
+    color: #8f8f8f;
+}
+
+.not-found-content {
+    margin-top: 5%;
+}
+
+.not-found-content > img {
+    margin-top: 5%;
+    max-width: 25%;
+}
